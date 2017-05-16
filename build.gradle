@@ -11,12 +11,6 @@ dependencies {
 sourceCompatibility = "1.7"
 targetCompatibility = "1.7"
 
-github {
-    user = 'columbooo'
-    license = 'MIT'
-}
-
-
 buildscript {
     repositories {
         jcenter()
